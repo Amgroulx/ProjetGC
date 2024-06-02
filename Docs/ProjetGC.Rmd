@@ -1,5 +1,5 @@
 ---
-title: "ProjetGC"
+title: "Projet GC"
 output: html_document
 date: "2024-06-02"
 ---
